@@ -8,7 +8,7 @@ Ievadot (vai noskaidrojot) izpildītdatora atrašanās vieto, izvada sarakstu ar
 - Sakārtot tās pēc attāluma no lietotāja
 - Izvadīt ~5 tuvākos veikalus
 ## Izmantotās tehnoloģijas
-	- C++
-	- SFML library
+- C++
+- SFML library
 ## Izmantotie avoti
-	- [SFML dokumentācija](https://www.sfml-dev.org/style.php)
+- [SFML dokumentācija](https://www.sfml-dev.org/style.php)
